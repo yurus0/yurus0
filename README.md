@@ -1,9 +1,7 @@
 ### **Yoo** 
 **This** is a very ✨ _special_ ✨ univers, it has very random creatures.
 
-Oops! I mean creations.
-
-Wait, aren't projects the creatures of this universe?
+Oops! I mean creations. 
 
 <!--
 Here are some ideas to get you started:
