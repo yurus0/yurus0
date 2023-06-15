@@ -1,8 +1,11 @@
-### Yoo
+### **Yoo** 
+**This** is a ✨ _special_ ✨ univers, it has very random creatures.
+
+Oops! I mean creations.
+
+Wait, aren't projects the creatures of this universe?
 
 <!--
-**yurus0/yurus0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
