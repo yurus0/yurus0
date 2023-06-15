@@ -1,5 +1,5 @@
 ### **Yoo** 
-**This** is a very ✨ _special_ ✨ univers, it has very random creatures.
+**This** is a very ✨ _special_ ✨ universe, it has very random creatures.
 
 Oops! I mean creations. 
 
